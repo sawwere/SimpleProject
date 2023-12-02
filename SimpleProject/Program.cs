@@ -23,7 +23,6 @@ namespace SimpleProject
 
         static void Main(string[] args)
         {
-            Break the code
             Console.WriteLine(666);
             Console.ReadKey();
         }
